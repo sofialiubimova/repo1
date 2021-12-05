@@ -1,0 +1,8 @@
+Ветка master идентична удалённой веткке demo.
+Итого 6 коммитов:
+heat added
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+Commit
