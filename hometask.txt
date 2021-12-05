@@ -1,5 +1,5 @@
 Ветка master идентична удалённой веткке demo.
-Итого 8 коммитов:
+Итого 10 коммитов:
 init
 boots
 README added
@@ -8,3 +8,5 @@ fix readme
 Merge remote-tracking branch 'origin/boots' into boots_buttons
 Merge remote-tracking branch 'origin/buttons' into boots_buttons
 Add files via upload
+Update hometext.txt
+Update hometext.txt
